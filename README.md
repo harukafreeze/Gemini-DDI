@@ -2,12 +2,14 @@
 # Gemini-DDI: A Dual-view Framework for Drug-Drug Interaction Prediction
 
 > **Official implementation for the paper:**  
-> **"Gemini-DDI: A Dual-view Framework for Drug-Drug Interaction Prediction"**  
+> **"Gemini-DDI: A Dual-view Framework for Drug-Drug Interaction Prediction"**
 
 ---
 ## Data availability
 
 If you want a quick try, please download the data fold from [data](https://drive.google.com/drive/folders/1zneACajKO7dm3tdM6jCiaSur-fyS2SGP?usp=sharing).
+
+
 ---
 ## Installation
 **1. Clone the repository**
