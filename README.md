@@ -5,9 +5,12 @@
 > **"Gemini-DDI: A Dual-view Framework for Drug-Drug Interaction Prediction"**  
 
 ---
+## Data availability
 
+---
 ## Installation
 
+If you want a quick try, please download the data fold from [data](https://drive.google.com/drive/folders/1zneACajKO7dm3tdM6jCiaSur-fyS2SGP?usp=sharing).
 **1. Clone the repository**
 ```bash
 git clone https://github.com/harukafreeze/Gemini-DDI.git
