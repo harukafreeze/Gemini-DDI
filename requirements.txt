@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+rdkit
+scikit-learn
+pandas
+tqdm
+matplotlib
