@@ -12,11 +12,10 @@ If you want a quick try, please download the data fold from [data](https://drive
 
 ---
 ## Installation
-**1. Clone the repository**
-```bash
-git clone https://github.com/harukafreeze/Gemini-DDI.git
-cd Gemini-DDI
-```
+**1. Download the code**
+
+Download and extract the ZIP archive from the anonymous review page.
+Run the commands below from the extracted repository root.
 
 **2. Setup Environment**
 ```bash
