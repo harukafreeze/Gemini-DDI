@@ -14,7 +14,7 @@ If you want a quick try, please download the data fold from [data](https://drive
 ## Installation
 **1. Download the code**
 
-Download and extract the ZIP archive from the anonymous review page.
+Download and extract the ZIP archive from the page.
 Run the commands below from the extracted repository root.
 
 **2. Setup Environment**
